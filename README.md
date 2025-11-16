@@ -10,7 +10,6 @@ Previously built Flutter apps, .NET Core components, and SME websites with chatb
 
 🚀 Summary
 
-(CV’den birebir alınmıştır)
 Mobile Developer with hands-on experience in SwiftUI, Flutter, and MVVM, as well as practical UI/UX design skills.
 Published an iOS game on the App Store with global reach. Built SME websites featuring chatbot integration, admin panels, and automations. Experienced in requirements engineering, REST APIs, and cloud services. ￼
 
@@ -96,12 +95,4 @@ Tools & Workflow
 I enjoy building real products that reach real users — combining mobile development, clean UI/UX, and production-ready engineering practices.
 
 
-╔══════════════════════════════════════════════╗
-║                 ABDULLAH BAŞPINAR            ║
-║          iOS & Flutter Mobile Developer      ║
-║  SwiftUI • MVVM • Firebase • .NET • UI/UX    ║
-║                                              ║
-║      Crafting clean, fast, modern apps       ║
-║    GitHub: github.com/abdullahbaspinarr      ║
-║                                              ║
-╚══════════════════════════════════════════════╝
+
