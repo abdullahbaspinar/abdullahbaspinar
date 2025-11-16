@@ -1,48 +1,107 @@
-# 👋 Hi, I’m **Abdullah Başpınar**
+👋 Hi, I’m Abdullah Başpınar
 
-**Mobile Developer** focused on iOS · SwiftUI · MVVM  
-Building polished mobile applications and innovative digital solutions from Ankara, Türkiye.
+Mobile Developer (iOS · Flutter) with hands-on experience building production-grade apps,
+UI/UX focused features, MVVM architectures, and cloud-integrated mobile experiences.
 
----
+Published an iOS game on the App Store with a 5.0/5.0 rating and users across 11 countries.
+Previously built Flutter apps, .NET Core components, and SME websites with chatbot automation.
 
-## 🚀 What I Do  
-- Design and develop modern iOS apps with **SwiftUI**, **MVVM**, and clean architecture.  
-- Build back-end connected features using **Firebase**, **REST APIs**, and real-time updating.  
-- Create brand-identities & web solutions via **Abba Studio** → [abbastudio.tech](https://www.abbastudio.tech)
+⸻
 
----
+🚀 Summary
 
-## 🛠 Tech Stack  
-- **Languages**: Swift, JavaScript, HTML5, CSS3  
-- **Frameworks/Tools**: SwiftUI, Combine, Firebase, Git, GitHub  
-- **Design & Productivity**: Figma, Sketch, Adobe XD  
-- **Other**: REST & JSON, MVVM, Clean Architecture, App Store deployment  
+(CV’den birebir alınmıştır)
+Mobile Developer with hands-on experience in SwiftUI, Flutter, and MVVM, as well as practical UI/UX design skills.
+Published an iOS game on the App Store with global reach. Built SME websites featuring chatbot integration, admin panels, and automations. Experienced in requirements engineering, REST APIs, and cloud services. ￼
 
----
+⸻
 
-## 📱 Featured Projects  
-- **XOX with a Twist** – Tic-Tac-Toe variant on the App Store  
-- **LyricLoop** – Music-based English learning game (in development)  
-- **Fulle** – Study-tracker app for YKS/LGS students with Pomodoro system  
-- **Abba Studio Web & Mobile Solutions** – Portfolio: [abbastudio.tech](https://www.abbastudio.tech)
+🛠 Tech Stack
 
----
+Mobile Development
+	•	iOS: Swift, SwiftUI, MVVM
+	•	Cross-Platform: Flutter (Dart)
+	•	Animations, accessibility, haptics
+	•	Firebase, RESTful API integration
 
-## 🌟 In the Works  
-- Finalizing **LyricLoop**: immersive iOS game using SwiftUI and MVVM  
-- Expanding **Abba Studio** into full-service digital agency  
-- Enhancing open-source contributions to Swift community  
+Backend / Full-Stack
+	•	.NET Core (MVC)
+	•	SQL
+	•	API design, QA cycles
 
----
+Tools & Workflow
+	•	Xcode, Visual Studio, Git, GitHub
+	•	Figma, Postman, App Store Connect
+	•	Firebase, AWS, Google Cloud
 
-## 📫 Contact & Socials  
-- 🌐 Website: [abbastudio.tech](https://www.abbastudio.tech)  
-- 🔗 LinkedIn: [linkedin.com/in/abdullahbaspinar](https://www.linkedin.com/in/abdullahbaspinar)  
-- 💬 GitHub: [github.com/abdullahbaspinar](https://github.com/abdullahbaspinar)  
-- 📩 Email: your.email@example.com (replace with your preferred contact)
+⸻
 
----
+🎓 Education
+	•	Hacettepe University — B.S. Computer Education & Instructional Technology (2022– )
+	•	Istanbul University — B.S. Management Information Systems (2024– ) ￼
 
-## ✅ Let’s Connect  
-I’m always open to discussing new mobile app ideas, collaborations, or mentoring opportunities.  
-> _“Innovation and simplicity go hand in hand.”_
+⸻
+
+📱 Projects
+
+🎮 XOX with a Twist — iOS Game (App Store)
+	•	Built using SwiftUI + MVVM
+	•	Custom animations, haptics, accessibility labels
+	•	Published on the App Store
+	•	Users in 11 countries, 5.0/5.0 average rating
+	•	Technologies: Swift, SwiftUI, App Store Connect ￼
+
+⸻
+
+✋ Dijital Eller — Sign Language Learning App
+
+(ITU Çekirdek Pre-Incubation Program)
+	•	Flutter-based educational learning platform
+	•	Interactive lessons, quizzes and video modules
+	•	Achieved 90%+ lesson completion in pilot testing
+	•	Technologies: Flutter, Firebase, AWS, Google Cloud, Figma ￼
+
+⸻
+
+🌐 Freelance SME Websites
+	•	Delivered SME websites with chatbot integration and content automation
+	•	Reduced manual operations by 40%
+	•	Improved client response time by 25%
+	•	Technologies: HTML, CSS, JavaScript, Firebase, Chatbase, WhatsApp API ￼
+
+⸻
+
+🧪 Open-source Mini Projects
+	•	Published 15+ learning-focused Swift and JavaScript mini-projects
+	•	UI experiments, micro-apps, and prototyping helpers that improve development speed ￼
+
+⸻
+
+🚀 What I’m Working On
+	•	iOS educational games & productivity apps
+	•	SwiftUI MVVM architecture improvements
+	•	Expanding Abba Studio’s digital product offerings
+
+⸻
+
+📫 Contact
+	•	📧 Email: aabdullahbaspinarr@gmail.com
+	•	🔗 LinkedIn: linkedin.com/in/abdullahbaspinar
+	•	🐙 GitHub: github.com/abdullahbaspinar
+
+⸻
+
+⭐ Final Note
+
+I enjoy building real products that reach real users — combining mobile development, clean UI/UX, and production-ready engineering practices.
+
+
+╔══════════════════════════════════════════════╗
+║                 ABDULLAH BAŞPINAR            ║
+║          iOS & Flutter Mobile Developer      ║
+║  SwiftUI • MVVM • Firebase • .NET • UI/UX    ║
+║                                              ║
+║      Crafting clean, fast, modern apps       ║
+║    GitHub: github.com/abdullahbaspinarr      ║
+║                                              ║
+╚══════════════════════════════════════════════╝
