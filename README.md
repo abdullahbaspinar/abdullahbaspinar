@@ -1,98 +1,78 @@
-👋 Hi, I’m Abdullah Başpınar
+## 👋 Hi, I’m Abdullah Başpınar
 
-Mobile Developer (iOS · Flutter) with hands-on experience building production-grade apps,
-UI/UX focused features, MVVM architectures, and cloud-integrated mobile experiences.
+Mobile Developer (iOS · Flutter) focused on building **production-ready apps**
+with clean UI/UX and scalable architectures.
 
-Published an iOS game on the App Store with a 5.0/5.0 rating and users across 11 countries.
-Previously built Flutter apps, .NET Core components, and SME websites with chatbot automation.
+- 📱 Published an iOS game on the App Store (⭐ 5.0 rating, users in 11 countries)
+- 🧩 Experience with SwiftUI, Flutter, MVVM, and cloud-integrated apps
+- 🌐 Built SME websites with chatbot automation and admin panels
 
-⸻
+---
 
-🚀 Summary
+## 🛠 Tech Stack
 
-Mobile Developer with hands-on experience in SwiftUI, Flutter, and MVVM, as well as practical UI/UX design skills.
-Published an iOS game on the App Store with global reach. Built SME websites featuring chatbot integration, admin panels, and automations. Experienced in requirements engineering, REST APIs, and cloud services. ￼
+### Mobile
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="36"/>
+  <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="36"/>
+</p>
 
-⸻
+### Backend & Tools
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="36"/>
+</p>
 
-🛠 Tech Stack
+---
 
-Mobile Development
-	•	iOS: Swift, SwiftUI, MVVM
-	•	Cross-Platform: Flutter (Dart)
-	•	Animations, accessibility, haptics
-	•	Firebase, RESTful API integration
+## 📱 Featured Projects
 
-Backend / Full-Stack
-	•	.NET Core (MVC)
-	•	SQL
-	•	API design, QA cycles
+### 🎮 XOX with a Twist — iOS Game
+- SwiftUI + MVVM architecture  
+- Custom animations, haptics & accessibility  
+- Live on the App Store  
+- ⭐ 5.0 rating · Users in 11 countries  
 
-Tools & Workflow
-	•	Xcode, Visual Studio, Git, GitHub
-	•	Figma, Postman, App Store Connect
-	•	Firebase, AWS, Google Cloud
+**Tech:** Swift, SwiftUI, App Store Connect
 
-⸻
+---
 
-🎓 Education
-	•	Hacettepe University — B.S. Computer Education & Instructional Technology (2022– )
-	•	Istanbul University — B.S. Management Information Systems (2024– ) ￼
+### ✋ Dijital Eller — Sign Language Learning App
+- Flutter-based educational app  
+- Interactive lessons, quizzes, and videos  
+- 90%+ lesson completion in pilot testing  
 
-⸻
+**Tech:** Flutter, Firebase, AWS, Google Cloud
 
-📱 Projects
+---
 
-🎮 XOX with a Twist — iOS Game (App Store)
-	•	Built using SwiftUI + MVVM
-	•	Custom animations, haptics, accessibility labels
-	•	Published on the App Store
-	•	Users in 11 countries, 5.0/5.0 average rating
-	•	Technologies: Swift, SwiftUI, App Store Connect ￼
+### 🌐 SME Websites & Automation
+- Chatbot-integrated websites  
+- Admin panels & content automation  
+- Reduced manual workload by **40%**
 
-⸻
+**Tech:** HTML, CSS, JavaScript, Firebase, WhatsApp API
 
-✋ Dijital Eller — Sign Language Learning App
+---
 
-(ITU Çekirdek Pre-Incubation Program)
-	•	Flutter-based educational learning platform
-	•	Interactive lessons, quizzes and video modules
-	•	Achieved 90%+ lesson completion in pilot testing
-	•	Technologies: Flutter, Firebase, AWS, Google Cloud, Figma ￼
+## 🎓 Education
+- **Hacettepe University** — Computer Education & Instructional Technology  
+- **Istanbul University** — Management Information Systems
 
-⸻
+---
 
-🌐 Freelance SME Websites
-	•	Delivered SME websites with chatbot integration and content automation
-	•	Reduced manual operations by 40%
-	•	Improved client response time by 25%
-	•	Technologies: HTML, CSS, JavaScript, Firebase, Chatbase, WhatsApp API ￼
+## 🚀 Currently Working On
+- iOS educational & productivity apps  
+- SwiftUI + MVVM architecture refinement  
+- Digital products under **Abba Studio**
 
-⸻
+---
 
-🧪 Open-source Mini Projects
-	•	Published 15+ learning-focused Swift and JavaScript mini-projects
-	•	UI experiments, micro-apps, and prototyping helpers that improve development speed ￼
-
-⸻
-
-🚀 What I’m Working On
-	•	iOS educational games & productivity apps
-	•	SwiftUI MVVM architecture improvements
-	•	Expanding Abba Studio’s digital product offerings
-
-⸻
-
-📫 Contact
-	•	📧 Email: aabdullahbaspinarr@gmail.com
-	•	🔗 LinkedIn: linkedin.com/in/abdullahbaspinar
-	•	🐙 GitHub: github.com/abdullahbaspinar
-
-⸻
-
-⭐ Final Note
-
-I enjoy building real products that reach real users — combining mobile development, clean UI/UX, and production-ready engineering practices.
-
-
-
+## 📫 Contact
+- 📧 aabdullahbaspinarr@gmail.com  
+- 💼 linkedin.com/in/abdullahbaspinar  
+- 🐙 github.com/abdullahbaspinar
