@@ -96,5 +96,5 @@ Delivered digital solutions for small and medium-sized businesses.
 ## 📫 Contact
 
 - 📧 Email: aabdullahbaspinarr@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/abdullahbaspinar  
-- 🐙 GitHub: https://github.com/abdullahbaspinar
+- 💼 LinkedIn: [https://www.linkedin.com/in/abdullahbaspinar](https://www.linkedin.com/in/abdullah-başpınar-a5834a255/)  
+
