@@ -26,4 +26,4 @@ SwiftUI · Flutter · Firebase · REST APIs · MVVM
 ##  Contact
 
 aabdullahbaspinarr@gmail.com  
-linkedin.com/in/abdullah-başpınar-a5834a255/
+www.linkedin.com/in/abdullah-baspinar
