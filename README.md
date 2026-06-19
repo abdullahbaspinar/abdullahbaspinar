@@ -2,9 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7A3EF0&height=170&section=header&text=Abdullah%20Ba%C5%9Fp%C4%B1nar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/abdullahbaspinar.png" width="110" alt="Abdullah Başpınar" />
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=B794F6&center=true&vCenter=true&width=480&lines=Mobile+Developer;SwiftUI+%7C+Flutter;MVVM+%7C+Clean+Architecture" alt="Typing animation" />
